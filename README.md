@@ -1,1 +1,2 @@
 # interHouseFootballAnalysis
+This is a project that involves data analysis on the grassroots level to attempt to reveal the true benefits of using data in sports, and as an extension to other fields. These are radar charts that visualise the performances of each player (whose names have been hidden for privacy) and provide an unbiased view of their performance. The data was collected during inter-house football games at a high school. The program uses Python - the pandas, matplotlib and the soccerplots libraries are most significant. 
